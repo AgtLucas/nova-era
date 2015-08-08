@@ -1,1 +1,5 @@
-# nova-era
+# Nova Era
+
+---
+
+License: [MIT](http://mit.lucas.ninja)
